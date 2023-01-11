@@ -18,7 +18,7 @@ const About = () => {
       <div className="sectionContent grid">
         <div className="textSection">
           <h4>
-            I'm a success-driven, determined Front-end developer. I have experience using Html Sass and Javascript to build accessible component-based web pages and systems. <br/>
+            I am a success-driven, determined Front-end developer. I have experience using Html Sass and Javascript to build accessible component-based web pages and systems. <br/>
             Ability to deliver quality results while collaborating in rapidly changing work environments and team compositions.
               <br />
             A passionate person willing to learn more technologies to become a better developer than I was yesterday. So determined and result oriented.
