@@ -25,3 +25,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 >>>>>>> parent of e1d35aa (Updates)
+
+# Local Netlify folder
+.netlify
+
+.vercel

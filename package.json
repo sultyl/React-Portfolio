@@ -1,21 +1,15 @@
 {
-  "name": "myportfolio",
+  // "name": "React-Portfolio",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://sultyl.github.io/myportfolio/",
-=======
->>>>>>> parent of e1d35aa (Updates)
+  // "homepage": "https://github.com/sultyl/React-Portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
-<<<<<<< HEAD
     "lts": "^1.2.0",
-=======
->>>>>>> parent of e1d35aa (Updates)
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
@@ -24,17 +18,11 @@
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-<<<<<<< HEAD
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
-=======
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
->>>>>>> parent of e1d35aa (Updates)
   },
   "eslintConfig": {
     "extends": [
